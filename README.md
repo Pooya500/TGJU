@@ -6,11 +6,13 @@ You can get Gold, Currencies and Coins prices with this tool in your project.
 
 This tool gathers prices from www.tgju.org and you don't need do anything.
 
-# How does it work?
+# Telegram Bot
 
 You can also use this telegram bot and get prices in your telegram bot.
+Just run code and enjoy
 
 # Example
+
 🇺🇸 دلار آمریکا: 207,260 ریال
 🇪🇺 یورو: 250,450 ریال
 🇬🇧 پوند انگلیس: 305,650 ریال
